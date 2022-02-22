@@ -12,7 +12,7 @@
 pip3 install tglogging
 ```
 
-## Example Usage
+### Example Usage
 
 Add ```TelegramLogHandler``` handler to your logging config.
 
